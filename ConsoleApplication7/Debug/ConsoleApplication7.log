@@ -1,0 +1,7 @@
+﻿  ConsoleApplication7.cpp
+C:\Users\user\Desktop\asd\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(435,10): warning C4101: "m": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\user\Desktop\asd\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(435,32): warning C4101: "y": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\user\Desktop\asd\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(435,13): warning C4101: "s": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\user\Desktop\asd\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(435,16): warning C4101: "t": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\user\Desktop\asd\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(435,7): warning C4101: "n": lokalna zmienna, do której nie istnieje odwołanie
+  ConsoleApplication7.vcxproj -> C:\Users\user\Desktop\asd\ConsoleApplication7\Debug\ConsoleApplication7.exe
